@@ -5,7 +5,7 @@ permalink: /projects/
 author:
 excerpt:
 year:
-date:
+date: 2019-07-01
 paperurl:
 venue: "NAACL 2019"
 ---
