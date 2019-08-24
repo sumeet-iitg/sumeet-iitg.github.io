@@ -4,7 +4,7 @@ collection: projects
 permalink:
 author: 
 excerpt:
-date:
+date: 2018-04-01
 year: 2018
 venue: 'ACL 2018'
 ---
