@@ -1,0 +1,15 @@
+---
+title: "Evaluating Influence Functions for Memory Replay in Continual Learning"
+collection: projects
+permalink: /projects/2019-05-01-inf
+author: 
+excerpt:
+date: 2019-05-01
+---
+Replaying examples from previous tasks is a popular way to overcome catastrophic forgetting in machine learning systems
+aimed at continual learning (CL). Effectively selecting these examples to honor memory and time constraints however, is a 
+challenging problem. We exeprimented several prin-cipled approaches for fixed-memory replay sampling derived from
+`Influence' functions (Cook & Weisberg, 1982) to select useful examples that could help overcome catastrophic forgetting 
+on previously encountered  tasks. We  performed  an in-depth study of the effectiveness of influence-based sampling on the 
+Split-MNIST benchmark dataset in three different continual learning settings and compare with other competitive subset sampling techniques.  
+We empirically evaluated Herding, K-means and Influence function-based sampling as effective replay sampling strategies across different CL settings.
