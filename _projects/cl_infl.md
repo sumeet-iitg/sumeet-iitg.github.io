@@ -4,7 +4,7 @@ collection: projects
 permalink:
 author: 
 excerpt:
-date:
+date: 2019-05-01
 year: 2019
 ---
 Replaying examples from previous tasks is a popular way to overcome catastrophic forgetting in machine learning systems
