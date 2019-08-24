@@ -226,7 +226,7 @@ defaults:
       path: ""
       type: projects
     values:
-      layout: archive-single
+      layout: archive
       author_profile: true
       share: true
       comments: true
@@ -244,7 +244,7 @@ defaults:
       path: ""
       type: portfolio
     values:
-      layout: archive-single
+      layout: single
       author_profile: true
       share: true
       comment: true
