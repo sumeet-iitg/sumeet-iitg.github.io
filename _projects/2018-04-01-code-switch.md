@@ -5,7 +5,7 @@ permalink: /projects/2018-04-01-code-switch
 date: 2018-04-01
 year: 2018
 paperurl: https://www.aclweb.org/anthology/W18-3211/
-venue: 'ACL 2018'
+venue: 'ACL'
 ---
 
 Code-switching (CS), the practice of alternating between two or more languages in
