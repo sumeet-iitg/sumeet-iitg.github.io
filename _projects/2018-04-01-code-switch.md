@@ -1,5 +1,5 @@
 ---
-title: "Evaluating Influence Functions for Memory Replay in Continual Learning"
+title: "Language Informed Modeling of Code-Switched Text"
 collection: projects
 permalink: /projects/2018-04-01-code-switch.md
 date: 2018-04-01
