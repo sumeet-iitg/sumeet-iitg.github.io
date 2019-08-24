@@ -1,9 +1,10 @@
 ---
 title: "Language Informed Modeling of Code-Switched Text"
 collection: projects
-permalink: /projects/2018-04-01-code-switch.md
+permalink: /projects/2018-04-01-code-switch
 date: 2018-04-01
 year: 2018
+paperurl: https://www.aclweb.org/anthology/W18-3211/
 venue: 'ACL 2018'
 ---
 
