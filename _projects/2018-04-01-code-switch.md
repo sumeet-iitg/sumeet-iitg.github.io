@@ -1,9 +1,7 @@
 ---
 title: "Evaluating Influence Functions for Memory Replay in Continual Learning"
 collection: projects
-permalink:
-author: 
-excerpt:
+permalink:/projects
 date: 2018-04-01
 year: 2018
 venue: 'ACL 2018'
